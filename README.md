@@ -3,3 +3,5 @@
 > link :- https://github.com/manish1822510059/Pyhton-stuff./tree/main/python%20tips%20and%20tricks
 ### Audio Book Reader  
 > link :- https://github.com/manish1822510059/Pyhton-stuff./tree/main/Audio%20Book%20Reader
+### Create Digital Clock.
+> link :- https://github.com/manish1822510059/Python-stuff./blob/main/Create%20Digital%20Clock/clock.py
