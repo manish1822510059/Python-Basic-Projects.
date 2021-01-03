@@ -5,3 +5,5 @@
 > link :- https://github.com/manish1822510059/Pyhton-stuff./tree/main/Audio%20Book%20Reader
 ### Create Digital Clock. <img src="https://img.icons8.com/dusk/30/000000/display.png"/>
 > link :- https://github.com/manish1822510059/Python-stuff./blob/main/Create%20Digital%20Clock/clock.py
+### QR-Code-Generater.
+> link :- https://github.com/manish1822510059/Python-stuff./tree/main/Qr%20Code
