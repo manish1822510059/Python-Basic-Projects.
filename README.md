@@ -9,3 +9,5 @@
 > link :- https://github.com/manish1822510059/Python-stuff./tree/main/Qr%20Code
 ### Email Slicer.   <img src="https://img.icons8.com/doodle/30/000000/apple-mail.png"/>
 > link :- https://github.com/manish1822510059/Python-stuff./blob/main/Email%20slicer/email_silcer.py
+### Screenshot Taker.   <img src="https://img.icons8.com/color/30/000000/full-screen.png"/>
+> link :- https://github.com/manish1822510059/Python-stuff./tree/main/Screenshot%20Taker
