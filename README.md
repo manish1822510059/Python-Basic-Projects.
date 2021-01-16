@@ -13,3 +13,5 @@
 > link :- https://github.com/manish1822510059/Python-stuff./blob/main/Email%20slicer/email_silcer.py
 ### Screenshot Taker.   <img src="https://img.icons8.com/color/30/000000/full-screen.png"/>
 > link :- https://github.com/manish1822510059/Python-stuff./tree/main/Screenshot%20Taker
+### Notification Alert!.   <img src="https://img.icons8.com/bubbles/30/000000/appointment-reminders.png"/>
+> link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Notification%20Alert!
