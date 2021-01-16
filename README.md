@@ -1,4 +1,6 @@
-#Python Basic Projects. <img src="https://img.icons8.com/color/48/000000/python.png"/>
+#<h1 align ="center">Python Basic Projects. <img src="https://img.icons8.com/color/48/000000/python.png"/></h1>
+
+
 ### Python tips and tricks. <img src="https://img.icons8.com/clouds/30/000000/fantasy.png"/>
 > link :- https://github.com/manish1822510059/Pyhton-stuff./tree/main/python%20tips%20and%20tricks
 ### Audio Book Reader.  <img src="https://img.icons8.com/officel/30/000000/reading-ebook.png"/>
