@@ -17,3 +17,6 @@
 > link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Notification%20Alert!
 ### Merry christmas using turtle module.   <img src="https://img.icons8.com/emoji/30/000000/-emoji-christmas-tree.png"/>
 > link :- https://github.com/manish1822510059/Python-Basic-Projects.
+### Acronyms.   <img src="https://img.icons8.com/dusk/30/000000/alphabetical-sorting.png"/>
+> link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Acronyms-using-Python
+
