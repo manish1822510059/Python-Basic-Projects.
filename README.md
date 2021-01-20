@@ -19,6 +19,6 @@
 > link :- https://github.com/manish1822510059/Python-Basic-Projects.
 ### Acronyms.   <img src="https://img.icons8.com/dusk/30/000000/alphabetical-sorting.png"/>
 > link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Acronyms-using-Python
-### Alarm Clock.   <box-icon name='alarm' type='solid' rotate='90' animation='tada' color='rgba(0,0,0,0.05)' ></box-icon>
-> link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Alarm%20Clock%20using%20python
+### Alarm Clock.   <img src="https://img.icons8.com/cute-clipart/30/000000/alarm-clock.png"/>
+> link :- https://github.com/manish1822510059/Python-Basic-Projects.
 
