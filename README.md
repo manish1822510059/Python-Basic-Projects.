@@ -21,4 +21,6 @@
 > link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Acronyms-using-Python
 ### Alarm Clock.   <img src="https://img.icons8.com/cute-clipart/30/000000/alarm-clock.png"/>
 > link :- https://github.com/manish1822510059/Python-Basic-Projects.
+### Story Generater.   <img src="https://img.icons8.com/nolan/30/storytelling.png"/>
+> link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Story%20Generator
 
