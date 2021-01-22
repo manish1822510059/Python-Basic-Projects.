@@ -23,4 +23,6 @@
 > link :- https://github.com/manish1822510059/Python-Basic-Projects.
 ### Story Generater.   <img src="https://img.icons8.com/nolan/30/storytelling.png"/>
 > link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Story%20Generator
+### Password Generater.   <img src="https://img.icons8.com/fluent/30/000000/password-window.png"/>
+> link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Password%20Generater
 
