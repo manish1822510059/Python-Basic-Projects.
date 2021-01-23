@@ -26,4 +26,4 @@
 ### Password Generater.   <img src="https://img.icons8.com/fluent/30/000000/password-window.png"/>
 > link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Password%20Generater
 ### Dice Roll Simulator.   <img src="https://img.icons8.com/plasticine/30/000000/dice.png"/>
-> link :- https://github.com/manish1822510059/Python-Basic-Projects./blob/main/Dice%20Roll%20Simulator/Dice-roll.py
+> link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Dice%20Roll%20Simulator
