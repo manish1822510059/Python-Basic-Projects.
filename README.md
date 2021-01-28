@@ -1,4 +1,4 @@
-<h1 align ="center"> <img src="https://img.icons8.com/color/48/000000/python.png"/> Python Basic Projects. <img src="https://img.icons8.com/color/48/000000/python.png"/></h1>
+<h1 align ="center"> <img src="https://img.icons8.com/color/48/000000/python.png"/>Python Basic Projects. <img src="https://img.icons8.com/color/48/000000/python.png"/></h1>
 
 
 ### Python tips and tricks. <img src="https://img.icons8.com/clouds/30/000000/fantasy.png"/>
