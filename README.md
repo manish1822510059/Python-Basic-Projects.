@@ -27,3 +27,5 @@
 > link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Password%20Generater
 ### Dice Roll Simulator.   <img src="https://img.icons8.com/plasticine/30/000000/dice.png"/>
 > link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Dice%20Roll%20Simulator
+### Passsword Protection in Pdf.   <img src="https://img.icons8.com/dusk/30/000000/show-password.png"/>
+> link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/PASSWORD%20Protection%20in%20pdf
