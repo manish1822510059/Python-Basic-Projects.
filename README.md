@@ -28,6 +28,6 @@
 ### Dice Roll Simulator.   <img src="https://img.icons8.com/plasticine/30/000000/dice.png"/>
 > link :- https://github.com/manish1822510059/Python-Basic-Projects./tree/main/Dice%20Roll%20Simulator
 ### Passsword Protection in Pdf.   <img src="https://img.icons8.com/dusk/30/000000/show-password.png"/>
-> link :- t.ly/4w3e
+> link :- https://github.com/manish1822510059/Python-Basic-Projects.
 ### Paint Name in Binary.   <img src="https://img.icons8.com/nolan/34/binary-file.png"/>
-> link :- t.ly/XQRX
+> link :- https://github.com/manish1822510059/Python-Basic-Projects.
