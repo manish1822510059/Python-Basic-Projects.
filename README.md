@@ -1,5 +1,6 @@
 <h1 align ="center"> <img src="https://img.icons8.com/color/48/000000/python.png"/>Python Basic Projects. <img src="https://img.icons8.com/color/48/000000/python.png"/></h1>
 
+![python-projects-for-beginners](https://user-images.githubusercontent.com/59960810/110332701-afc63280-8046-11eb-9472-7af0c6f111e1.jpg)
 
 ### Python tips and tricks. <img src="https://img.icons8.com/clouds/30/000000/fantasy.png"/>
 > link :- https://github.com/manish1822510059/Pyhton-stuff./tree/main/python%20tips%20and%20tricks
