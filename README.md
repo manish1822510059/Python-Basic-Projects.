@@ -1,4 +1,4 @@
-<h1 align ="center"> <img src="https://img.icons8.com/color/48/000000/python.png"/>Python Basic Projects. <img src="https://img.icons8.com/color/48/000000/python.png"/></h1>
+<h1 align ="center"> <img src="https://img.icons8.com/color/48/000000/python.png"/> Python Basic Projects. <img src="https://img.icons8.com/color/48/000000/python.png"/></h1>
 
 ![python-projects-for-beginners](https://user-images.githubusercontent.com/59960810/110332701-afc63280-8046-11eb-9472-7af0c6f111e1.jpg)
 
