@@ -1,5 +1,5 @@
 from tabulate import tabulate
-data = [["Name","Place","Gender"],["Aman","NewDelhi","Male"],["Hritika","New Delhi","Male"]]
+data = [["Name","Place","Gender"],["Manish","Noida","Male"],["Hritika","New Delhi","Male"],["pooja","Greater Noida","Female"]]
 
 # print(tabulate(data))
 # print(tabulate(data,headers="firstrow"))
